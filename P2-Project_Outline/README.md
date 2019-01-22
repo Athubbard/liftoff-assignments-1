@@ -10,12 +10,12 @@ This idea came from the desire to attend church services and events even if out 
 
 ### Features
 
--User Login: Users would be able to login by creating an account. All access will be restricted to logged in users.
--Set preferences: Users can set church denomination preferences.
--Search churches: Users can find churches in any city and state.
--Manage: Users can view and manage churches attended before.
--Google maps integration.
--Delete churches: users will be able to delete churches they have visited or added to preferences.
+- User Login: Users would be able to login by creating an account. All access will be restricted to logged in users.
+- Set preferences: Users can set church denomination preferences.
+- Search churches: Users can find churches in any city and state.
+- Manage: Users can view and manage churches attended before.
+- Google maps integration.
+- Delete churches: users will be able to delete churches they have visited or added to preferences.
 
 ### Technologies
 

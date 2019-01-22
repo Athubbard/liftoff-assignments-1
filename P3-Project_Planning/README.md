@@ -1,13 +1,12 @@
 # Project Planning
-For this assignment, you'll create some initial plans for your project.
-
-## Assignment Description
-[Project Planning Assignment](https://education.launchcode.org/liftoff/assignments/planning/)
-
-## Submission Instructions
 
 ### Wireframes
 
+<a href="file:///C:/Users/PC/Downloads/WireframesPDF.pdf">Wireframes</a>
+- Login 
+- Profile
+- Search 
+- Results
 (Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.)
 
 ### Project Tracker
