@@ -2,7 +2,7 @@
 
 ### Wireframes
 
-<a href="file:///C:/Users/PC/Downloads/WireframesPDF.pdf">Wireframes</a>
+<a href="https://github.com/Athubbard/liftoff-assignments-1/blob/master/P3-Project_Planning/WireframesPDF.pdf">Wireframes</a>
 - Login 
 - Profile
 - Search 
