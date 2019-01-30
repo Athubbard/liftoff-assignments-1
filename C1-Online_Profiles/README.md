@@ -6,8 +6,8 @@ For this assignment you will need to upload your resume, and provide links to yo
 
 ## Submission Instructions
  
-### GitHub
-Provide a link to your GitHub account here.
+### GitHub)
+Provide a link to your GitHub account [here](https://github.com/Athubbard)
  
 ### LinkedIn
 Provide a link to your LinkedIn account here.
