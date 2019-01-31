@@ -10,7 +10,7 @@ For this assignment you will need to upload your resume, and provide links to yo
 Provide a link to your GitHub account [here](https://github.com/Athubbard)
  
 ### LinkedIn
-Provide a link to your LinkedIn account here.
+Provide a link to your LinkedIn account [here](https://www.linkedin.com/in/amber-hubbard-3bb319179/)
 
 ### Resume
 You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
